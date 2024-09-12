@@ -1,4 +1,4 @@
 xcuserdata/
 .build/
 .swiftpm/
-.doccarchive
+*.doccarchive/
